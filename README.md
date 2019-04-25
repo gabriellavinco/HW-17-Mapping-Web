@@ -7,7 +7,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Tasks
 
-# Level 1: Basic Visualization
+### Level 1: Basic Visualization
 
 Your first task is to visualize an earthquake data set.
 
@@ -21,7 +21,7 @@ Your first task is to visualize an earthquake data set.
 - Include popups that provide additional information about the earthquake when a marker is clicked.
 - Create a legend that will provide context for your map data.
 
-# Level 2: More Data (Optional)
+### Level 2: More Data (Optional)
 
 The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it along side your original set of data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates.
 In this step we are going to..
